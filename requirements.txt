@@ -1,0 +1,11 @@
+# Core dependencies
+torch>=2.0.1
+torchvision>=0.15.2
+ultralytics>=8.0.196
+opencv-python>=4.8.1.78
+numpy>=1.24.3
+
+# Optional dependencies for better performance
+pillow>=10.0.0
+tqdm>=4.65.0
+PyYAML>=6.0.1
